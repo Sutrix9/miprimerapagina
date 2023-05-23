@@ -1,0 +1,22 @@
+.medio{
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(204 212 255);
+    align-items: center;
+}
+.interno{
+    background-color: #97aa19;
+    width: 96%;
+    height: 93%;
+    padding: 5px;
+    margin: 2px;
+}
+.externo{
+    background-color: #aaebe5a3;
+    height: 100%;
+    margin: 15px;
+    padding: 10px;
+    width: 40%;
+}
